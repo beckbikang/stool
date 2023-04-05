@@ -3,7 +3,7 @@
 simple tools write in go
 
 
-# 1. a tcp ecoh tools
+# 1. a tcp echo tools
 
 
 ```
