@@ -1,9 +1,11 @@
 # stool
 
+有时用到一些工具，在网上找可能还没有自己撸的快，而且定制化还需要了解它的结构。不如大致学习下原理，简单撸一个。
+
 simple tools write in go
 
 
-# 1. a tcp echo tools
+# 1. a tcp echo tools 
 
 
 ```
